@@ -21,28 +21,18 @@ public class Cliente_multiple2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        try (Socket socket = new Socket("10.10.222.105",5000)){
-            BufferedReader input = new BufferedReader( new 
-                InputStreamReader(socket.getInputStream()));
-            PrintWriter output = 
-                    new PrintWriter(socket.getOutputStream(),true);
+        try (Socket socket = new Socket("localhost",5000)){
+            BufferedReader input = new BufferedReader( new InputStreamReader(socket.getInputStream()));
+            PrintWriter output =new PrintWriter(socket.getOutputStream(),true);
             Scanner scanner = new Scanner(System.in);
             String userInput;
             String response;
-            String clientName = "anonymous";
+           // String clientName = "anonymous";
             ClientThread clientThread = new ClientThread(socket);
             clientThread.start();
             do {
-                if (clientName.equals("anonymous")) {
-                    System.out.print("Escribe tu nombre>:");
-                    userInput = scanner.nextLine();
-                    clientName = userInput;
-                    output.println(userInput);
-                    if (userInput.equals("salir")) {
-                        break;
-                    }
-               } else {
-                    String message = ( "("+clientName+")"+" mensaje: " );
+                
+                    String message = ( " mensaje>:" );
                     System.out.println(message);
                     userInput = scanner.nextLine();
                     // output.println(message + " " + userInput);
@@ -51,7 +41,7 @@ public class Cliente_multiple2 {
                         break;
                     }
                     
-                }
+                
             } while (!userInput.equals("salir"));
         } catch (Exception e) {
             System.out.println("Main client. Error:"+e.getMessage());

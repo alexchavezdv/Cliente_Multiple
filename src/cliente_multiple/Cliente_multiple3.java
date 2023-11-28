@@ -21,7 +21,7 @@ public class Cliente_multiple3 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        try (Socket socket = new Socket("10.10.184.70",5000)){
+        try (Socket socket = new Socket("localhost",5000)){
             BufferedReader input = new BufferedReader( new 
                 InputStreamReader(socket.getInputStream()));
             PrintWriter output = 
