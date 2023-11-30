@@ -31,7 +31,6 @@ public class Cliente_multiple2 {
             ClientThread clientThread = new ClientThread(socket);
             clientThread.start();
             do {
-                
                     String message = ( " mensaje>:" );
                     System.out.println(message);
                     userInput = scanner.nextLine();

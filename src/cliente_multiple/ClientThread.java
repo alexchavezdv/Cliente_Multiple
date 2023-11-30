@@ -29,6 +29,10 @@ public class ClientThread extends Thread {
             while(true) {
                 String response = input.readLine();
                 System.out.println(response);
+                if (response.contains("(privado):URL")) {
+                    String splitted[]=response.split("URL");
+                    System.out.println(splitted[1]);
+                }
             }
         } catch (IOException e) {
             System.out.println("ClientThread error:"+e.getMessage());

@@ -85,8 +85,13 @@ public class Texto {
     }
 
     public void display(int n) {
-        System.out.println(this.texto.substring(n, n + n));
+      //  System.out.println(this.texto.substring(n, n + n));
         System.out.println("Total de palabras:" + this.palabras_totales);
+    }
+    public String totalPalabras() {
+      //  System.out.println(this.texto.substring(n, n + n));
+        
+        return "Total de palabras:" + String.valueOf(this.palabras_totales);
     }
 
     public void cuentaPalabras() {
@@ -184,6 +189,51 @@ public class Texto {
             }
             
         }
+    }
+    public String displayTop(HashMap<String, Integer> diccionario ,int n_palabras) {
+        String mensaje="";
+       LinkedHashMap<String,Integer> sort_dicc =
+                new LinkedHashMap<>();
+        //ArrayList<String> palabras = 
+        //        new ArrayList<>(this.diccionario.keySet());
+        //ArrayList<Integer> conteo =
+        //        new ArrayList<>(this.diccionario.values());
+        ArrayList<Integer> lista = new ArrayList<>();
+        for(Map.Entry<String,Integer> registro: diccionario.entrySet()) {
+            lista.add(registro.getValue());          
+        }
+        Collections.sort(lista, Collections.reverseOrder());
+        for(int num : lista) {
+            for(Map.Entry<String, Integer> registro : this.diccionario.entrySet() ) {
+                if (registro.getValue().equals(num)) {
+                    sort_dicc.put(registro.getKey(),num);
+                }
+            }
+        }
+        System.out.println(">>>>>>>"+this.filename);
+        mensaje=mensaje+">>>>>>>"+this.filename+"\n";
+        int cuenta_pal =0;
+        ArrayList<String> palabras = 
+                new ArrayList<>(sort_dicc.keySet());
+        ArrayList<Integer> conteo =
+                new ArrayList<>(sort_dicc.values());
+        
+        for (int i = 0; i < palabras.size(); i++) {
+            if (cuenta_pal<n_palabras) {
+                if(conteo.get(i)>1) {
+                    
+                    String palabra=palabras.get(i)+ ":" +
+                        conteo.get(i);
+                    System.out.println("  "+palabra);
+                    mensaje=mensaje+palabra+"\n";
+                    cuenta_pal++;
+                   
+                   // this.Top10.add(palabra);
+                }
+            }
+            
+        }
+        return mensaje;
     }
     
 
