@@ -1,0 +1,767 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-typography-survey-disabled vector-toc-available" lang="es" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Frankenstein o el moderno Prometeo - Wikipedia, la enciclopedia libre</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-typography-survey-disabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )eswikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],
+"wgDefaultDateFormat":"dmy","wgMonthNames":["","enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"wgRequestId":"b2647d99-b694-4539-b695-d36fe41fa631","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Frankenstein_o_el_moderno_Prometeo","wgTitle":"Frankenstein o el moderno Prometeo","wgCurRevisionId":155494361,"wgRevisionId":155494361,"wgArticleId":72355,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia:Artículos destacados en la Wikipedia en francés","Wikipedia:Artículos con identificadores VIAF","Wikipedia:Artículos con identificadores BNE","Wikipedia:Artículos con identificadores BNF","Wikipedia:Artículos con identificadores GND","Wikipedia:Artículos con identificadores LCCN","Wikipedia:Artículos con identificadores NLA","Wikipedia:Artículos con identificadores Open Library",
+"Novelas epistolares","Novelas góticas","Novelas de ciencia ficción","Novelas fantásticas","Novelas de 1818","Novelas en inglés","Top 100 de libros de ciencia ficción y fantasía de la National Public Radio","Frankenstein","Libros críticos con la religión","Libros de Mary Shelley","Novelas de Reino Unido","Novelas británicas adaptadas al cine","Novelas adaptadas a la televisión","Novelas adaptadas al teatro","Mitología griega en la literatura moderna","Novelas ambientadas en Suiza","Novelas ambientadas en Alemania","Novelas ambientadas en Escocia","El Ártico en la ficción","Novelas debut"],"wgPageViewLanguage":"es","wgPageContentLanguage":"es","wgPageContentModel":"wikitext","wgRelevantPageName":"Frankenstein_o_el_moderno_Prometeo","wgRelevantArticleId":72355,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,
+"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"es","pageLanguageDir":"ltr","pageVariantFallbacks":"es"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgULSCurrentAutonym":"español","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q150827","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":true,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.gadget.imagenesinfobox":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready",
+"skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","ext.scribunto.logs","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.a-commons-directo","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface",
+"ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.quicksurveys.init","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=es&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.gadget.imagenesinfobox&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<noscript><link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=noscript&amp;only=styles&amp;skin=vector-2022"></noscript>
+<meta name="generator" content="MediaWiki 1.42.0-wmf.5">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Frankenstein.1831.inside-cover.jpg/1200px-Frankenstein.1831.inside-cover.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1800">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Frankenstein.1831.inside-cover.jpg/800px-Frankenstein.1831.inside-cover.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="1200">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Frankenstein.1831.inside-cover.jpg/640px-Frankenstein.1831.inside-cover.jpg">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="960">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Frankenstein o el moderno Prometeo - Wikipedia, la enciclopedia libre">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//es.m.wikipedia.org/wiki/Frankenstein_o_el_moderno_Prometeo">
+<link rel="alternate" type="application/x-wiki" title="Editar" href="/w/index.php?title=Frankenstein_o_el_moderno_Prometeo&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (es)">
+<link rel="EditURI" type="application/rsd+xml" href="//es.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://es.wikipedia.org/wiki/Frankenstein_o_el_moderno_Prometeo">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es">
+<link rel="alternate" type="application/atom+xml" title="Canal Atom de Wikipedia" href="/w/index.php?title=Especial:CambiosRecientes&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Frankenstein_o_el_moderno_Prometeo rootpage-Frankenstein_o_el_moderno_Prometeo skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Ir al contenido</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Sitio" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Menú principal"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Menú principal</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Menú principal</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">mover a la barra lateral</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">ocultar</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navegación
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Wikipedia:Portada" title="Visitar la página principal [z]" accesskey="z"><span>Portada</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Portal:Comunidad" title="Acerca del proyecto, lo que puedes hacer, dónde encontrar información"><span>Portal de la comunidad</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Actualidad" title="Encuentra información de contexto sobre acontecimientos actuales"><span>Actualidad</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Especial:CambiosRecientes" title="Lista de cambios recientes en la wiki [r]" accesskey="r"><span>Cambios recientes</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/Especial:P%C3%A1ginasNuevas"><span>Páginas nuevas</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Especial:Aleatoria" title="Cargar una página al azar [x]" accesskey="x"><span>Página aleatoria</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/Ayuda:Contenidos" title="El lugar para aprender"><span>Ayuda</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_es.wikipedia.org&amp;uselang=es" title="Apóyanos"><span>Donaciones</span></a></li><li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/Wikipedia:Informes_de_error"><span>Notificar un error</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Idiomas</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box cdx-message cdx-message--block mw-message-box-notice cdx-message--notice vector-language-sidebar-alert"><span class="cdx-message__icon"></span><div class="cdx-message__content">Los enlaces de idiomas se encuentran en la parte superior de la página, frente al título.</div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Wikipedia:Portada" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="La enciclopedia libre" src="/static/images/mobile/copyright/wikipedia-tagline-es.svg" width="120" height="13" style="width: 7.5em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Especial:Buscar" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Buscar en este wiki [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Buscar</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Buscar en Wikipedia" aria-label="Buscar en Wikipedia" autocapitalize="sentences" title="Buscar en este wiki [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Especial:Buscar">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Buscar</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Herramientas personales" role="navigation" >
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Especial:Crear_una_cuenta&amp;returnto=Frankenstein+o+el+moderno+Prometeo" title="Te recomendamos crear una cuenta e iniciar sesión; sin embargo, no es obligatorio" class=""><span>Crear una cuenta</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Especial:Entrar&amp;returnto=Frankenstein+o+el+moderno+Prometeo" title="Te recomendamos iniciar sesión, aunque no es obligatorio [o]" accesskey="o" class=""><span>Acceder</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Más opciones" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Herramientas personales"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Herramientas personales</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="Menú de usuario" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Especial:Crear_una_cuenta&amp;returnto=Frankenstein+o+el+moderno+Prometeo" title="Te recomendamos crear una cuenta e iniciar sesión; sin embargo, no es obligatorio"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Crear una cuenta</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Frankenstein+o+el+moderno+Prometeo" title="Te recomendamos iniciar sesión, aunque no es obligatorio [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Acceder</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Páginas para editores desconectados <a href="/wiki/Ayuda:Introducci%C3%B3n" aria-label="Obtenga más información sobre editar"><span>más información</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Especial:MisContribuciones" title="Una lista de modificaciones hechas desde esta dirección IP [y]" accesskey="y"><span>Contribuciones</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Especial:MiDiscusi%C3%B3n" title="Discusión sobre ediciones hechas desde esta dirección IP [n]" accesskey="n"><span>Discusión</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Sitio" role="navigation">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<nav id="mw-panel-toc" role="navigation" aria-label="Contenidos" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+				<div id="vector-toc-pinned-container" class="vector-pinned-container">
+				<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contenidos</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">mover a la barra lateral</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">ocultar</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">Inicio</div>
+			</a>
+		</li>
+		<li id="toc-Génesis"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Génesis">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Génesis</div>
+		</a>
+		
+		<ul id="toc-Génesis-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Argumento"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Argumento">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Argumento</div>
+		</a>
+		
+		<ul id="toc-Argumento-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Temática"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Temática">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Temática</div>
+		</a>
+		
+		<ul id="toc-Temática-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Véase_también"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Véase_también">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Véase también</div>
+		</a>
+		
+		<ul id="toc-Véase_también-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Referencias"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Referencias">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>Referencias</div>
+		</a>
+		
+		<ul id="toc-Referencias-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Bibliografía"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Bibliografía">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>Bibliografía</div>
+		</a>
+		
+		<ul id="toc-Bibliografía-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Enlaces_externos"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Enlaces_externos">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>Enlaces externos</div>
+		</a>
+		
+		<ul id="toc-Enlaces_externos-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+				</div>
+	</nav>
+		
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav role="navigation" aria-label="Contenidos" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Cambiar a la tabla de contenidos"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Cambiar a la tabla de contenidos</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Frankenstein o el moderno Prometeo</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Ir a un artículo en otro idioma. Disponible en 72 idiomas"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-72" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">72 idiomas</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D9%81%D8%B1%D8%A7%D9%86%D9%83%D9%86%D8%B4%D8%AA%D8%A7%D9%8A%D9%86" title="فرانكنشتاين (árabe)" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-as mw-list-item"><a href="https://as.wikipedia.org/wiki/%E0%A6%AB%E0%A7%8D%E0%A7%B0%E0%A7%87%E0%A6%82%E0%A6%95%E0%A7%87%E0%A6%A8%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%87%E0%A6%A8" title="ফ্ৰেংকেনষ্টাইন (asamés)" lang="as" hreflang="as" class="interlanguage-link-target"><span>অসমীয়া</span></a></li><li class="interlanguage-link interwiki-ast mw-list-item"><a href="https://ast.wikipedia.org/wiki/Frankenstein._El_Prometeo_modernu" title="Frankenstein. El Prometeo modernu (asturiano)" lang="ast" hreflang="ast" class="interlanguage-link-target"><span>Asturianu</span></a></li><li class="interlanguage-link interwiki-avk mw-list-item"><a href="https://avk.wikipedia.org/wiki/Frankenstein_(suterot)" title="Frankenstein (suterot) (Kotava)" lang="avk" hreflang="avk" class="interlanguage-link-target"><span>Kotava</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/Franken%C5%9Fteyn" title="Frankenşteyn (azerbaiyano)" lang="az" hreflang="az" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D0%B5%D0%BD%D1%89%D0%B0%D0%B9%D0%BD_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)" title="Франкенщайн (роман) (búlgaro)" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AB%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A7%87%E0%A6%A8%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%87%E0%A6%A8_(%E0%A6%89%E0%A6%AA%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8)" title="ফ্রাঙ্কেনস্টাইন (উপন্যাস) (bengalí)" lang="bn" hreflang="bn" class="interlanguage-link-target"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-bs mw-list-item"><a href="https://bs.wikipedia.org/wiki/Frankenstein_ili_moderni_Prometej" title="Frankenstein ili moderni Prometej (bosnio)" lang="bs" hreflang="bs" class="interlanguage-link-target"><span>Bosanski</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Frankenstein_o_el_Prometeu_modern" title="Frankenstein o el Prometeu modern (catalán)" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Frankenstein" title="Frankenstein (checo)" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-cy mw-list-item"><a href="https://cy.wikipedia.org/wiki/Frankenstein,_or_The_Modern_Prometheus" title="Frankenstein, or The Modern Prometheus (galés)" lang="cy" hreflang="cy" class="interlanguage-link-target"><span>Cymraeg</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Frankenstein" title="Frankenstein (danés)" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Frankenstein_(Roman)" title="Frankenstein (Roman) (alemán)" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%A6%CF%81%CE%B1%CE%BD%CE%BA%CE%B5%CE%BD%CF%83%CF%84%CE%AC%CE%B9%CE%BD_%CE%AE_%CE%BF_%CE%A3%CF%8D%CE%B3%CF%87%CF%81%CE%BF%CE%BD%CE%BF%CF%82_%CE%A0%CF%81%CE%BF%CE%BC%CE%B7%CE%B8%CE%AD%CE%B1%CF%82" title="Φρανκενστάιν ή ο Σύγχρονος Προμηθέας (griego)" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Frankenstein" title="Frankenstein (inglés)" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Franken%C5%9Dtejno" title="Frankenŝtejno (esperanto)" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Frankenstein" title="Frankenstein (estonio)" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Frankenstein" title="Frankenstein (euskera)" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D8%A7%D9%86%DA%A9%D9%86%D8%B4%D8%AA%D8%A7%DB%8C%D9%86" title="فرانکنشتاین (persa)" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Frankenstein" title="Frankenstein (finés)" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr badge-Q17437796 badge-featuredarticle mw-list-item" title="artículo destacado"><a href="https://fr.wikipedia.org/wiki/Frankenstein_ou_le_Prom%C3%A9th%C3%A9e_moderne" title="Frankenstein ou le Prométhée moderne (francés)" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-ga mw-list-item"><a href="https://ga.wikipedia.org/wiki/Frankenstein" title="Frankenstein (irlandés)" lang="ga" hreflang="ga" class="interlanguage-link-target"><span>Gaeilge</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/Frankenstein_ou_o_moderno_Prometeo" title="Frankenstein ou o moderno Prometeo (gallego)" lang="gl" hreflang="gl" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%A4%D7%A8%D7%A0%D7%A7%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F_(%D7%A1%D7%A4%D7%A8)" title="פרנקנשטיין (ספר) (hebreo)" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a href="https://hi.wikipedia.org/wiki/%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A5%88%E0%A4%82%E0%A4%95%E0%A4%A8%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BE%E0%A4%87%E0%A4%A8" title="फ्रैंकनस्टाइन (hindi)" lang="hi" hreflang="hi" class="interlanguage-link-target"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Frankenstein_ili_moderni_Prometej" title="Frankenstein ili moderni Prometej (croata)" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Frankenstein" title="Frankenstein (húngaro)" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/%D5%96%D6%80%D5%A1%D5%B6%D5%AF%D5%A5%D5%B6%D5%B7%D5%A9%D5%A5%D5%B5%D5%B6" title="Ֆրանկենշթեյն (armenio)" lang="hy" hreflang="hy" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-ia mw-list-item"><a href="https://ia.wikipedia.org/wiki/Frankenstein" title="Frankenstein (interlingua)" lang="ia" hreflang="ia" class="interlanguage-link-target"><span>Interlingua</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Frankenstein_(novel)" title="Frankenstein (novel) (indonesio)" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-is mw-list-item"><a href="https://is.wikipedia.org/wiki/Frankenstein" title="Frankenstein (islandés)" lang="is" hreflang="is" class="interlanguage-link-target"><span>Íslenska</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Frankenstein_o_il_moderno_Prometeo" title="Frankenstein o il moderno Prometeo (italiano)" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B1%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%B3" title="フランケンシュタイン (japonés)" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ka mw-list-item"><a href="https://ka.wikipedia.org/wiki/%E1%83%A4%E1%83%A0%E1%83%90%E1%83%9C%E1%83%99%E1%83%94%E1%83%9C%E1%83%A8%E1%83%A2%E1%83%90%E1%83%98%E1%83%9C%E1%83%98" title="ფრანკენშტაინი (georgiano)" lang="ka" hreflang="ka" class="interlanguage-link-target"><span>ქართული</span></a></li><li class="interlanguage-link interwiki-kn mw-list-item"><a href="https://kn.wikipedia.org/wiki/%E0%B2%AB%E0%B3%8D%E0%B2%B0%E0%B2%BE%E0%B2%82%E0%B2%95%E0%B3%86%E0%B2%A8%E0%B3%8D%E2%80%8C%E0%B2%B8%E0%B3%8D%E0%B2%9F%E0%B3%88%E0%B2%A8%E0%B3%8D%E2%80%8C" title="ಫ್ರಾಂಕೆನ್‌ಸ್ಟೈನ್‌ (canarés)" lang="kn" hreflang="kn" class="interlanguage-link-target"><span>ಕನ್ನಡ</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%ED%94%84%EB%9E%91%EC%BC%84%EC%8A%88%ED%83%80%EC%9D%B8" title="프랑켄슈타인 (coreano)" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-ku mw-list-item"><a href="https://ku.wikipedia.org/wiki/Frankenstein" title="Frankenstein (kurdo)" lang="ku" hreflang="ku" class="interlanguage-link-target"><span>Kurdî</span></a></li><li class="interlanguage-link interwiki-ky mw-list-item"><a href="https://ky.wikipedia.org/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D0%B5%D0%BD%D1%88%D1%82%D0%B5%D0%B9%D0%BD" title="Франкенштейн (kirguís)" lang="ky" hreflang="ky" class="interlanguage-link-target"><span>Кыргызча</span></a></li><li class="interlanguage-link interwiki-la mw-list-item"><a href="https://la.wikipedia.org/wiki/Frankenstein" title="Frankenstein (latín)" lang="la" hreflang="la" class="interlanguage-link-target"><span>Latina</span></a></li><li class="interlanguage-link interwiki-lb mw-list-item"><a href="https://lb.wikipedia.org/wiki/Frankenstein" title="Frankenstein (luxemburgués)" lang="lb" hreflang="lb" class="interlanguage-link-target"><span>Lëtzebuergesch</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/Franken%C5%A1teinas_(knyga)" title="Frankenšteinas (knyga) (lituano)" lang="lt" hreflang="lt" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-lv mw-list-item"><a href="https://lv.wikipedia.org/wiki/Franken%C5%A1teins" title="Frankenšteins (letón)" lang="lv" hreflang="lv" class="interlanguage-link-target"><span>Latviešu</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wikipedia.org/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D0%B5%D0%BD%D1%88%D1%82%D0%B0%D1%98%D0%BD" title="Франкенштајн (macedonio)" lang="mk" hreflang="mk" class="interlanguage-link-target"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-ml mw-list-item"><a href="https://ml.wikipedia.org/wiki/%E0%B4%AB%E0%B5%8D%E0%B4%B0%E0%B4%BE%E0%B4%99%E0%B5%8D%E0%B4%95%E0%B5%BB%E0%B4%B8%E0%B5%8D%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B5%80%E0%B5%BB" title="ഫ്രാങ്കൻസ്റ്റീൻ (malayálam)" lang="ml" hreflang="ml" class="interlanguage-link-target"><span>മലയാളം</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Frankenstein" title="Frankenstein (malayo)" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Frankenstein_(roman)" title="Frankenstein (roman) (neerlandés)" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Frankenstein" title="Frankenstein (noruego bokmal)" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-oc mw-list-item"><a href="https://oc.wikipedia.org/wiki/Frankenstein_o_lo_Promet%C3%A8u_mod%C3%A8rne" title="Frankenstein o lo Prometèu modèrne (occitano)" lang="oc" hreflang="oc" class="interlanguage-link-target"><span>Occitan</span></a></li><li class="interlanguage-link interwiki-pa mw-list-item"><a href="https://pa.wikipedia.org/wiki/%E0%A8%AB%E0%A8%B0%E0%A9%88%E0%A8%82%E0%A8%95%E0%A8%A8%E0%A8%B8%E0%A8%9F%E0%A8%BE%E0%A8%87%E0%A8%A8" title="ਫਰੈਂਕਨਸਟਾਇਨ (punyabí)" lang="pa" hreflang="pa" class="interlanguage-link-target"><span>ਪੰਜਾਬੀ</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Frankenstein" title="Frankenstein (polaco)" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Frankenstein" title="Frankenstein (portugués)" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Frankenstein_(roman)" title="Frankenstein (roman) (rumano)" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D0%B5%D0%BD%D1%88%D1%82%D0%B5%D0%B9%D0%BD,_%D0%B8%D0%BB%D0%B8_%D0%A1%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%9F%D1%80%D0%BE%D0%BC%D0%B5%D1%82%D0%B5%D0%B9" title="Франкенштейн, или Современный Прометей (ruso)" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-scn mw-list-item"><a href="https://scn.wikipedia.org/wiki/Frankenstein_(rumanzu)" title="Frankenstein (rumanzu) (siciliano)" lang="scn" hreflang="scn" class="interlanguage-link-target"><span>Sicilianu</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wikipedia.org/wiki/Frankenstein,_or_The_Modern_Prometeus" title="Frankenstein, or The Modern Prometeus (serbocroata)" lang="sh" hreflang="sh" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Frankenstein" title="Frankenstein (Simple English)" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Frankenstein" title="Frankenstein (eslovaco)" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a href="https://sl.wikipedia.org/wiki/Frankenstein" title="Frankenstein (esloveno)" lang="sl" hreflang="sl" class="interlanguage-link-target"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D0%B5%D0%BD%D1%88%D1%82%D0%B0%D1%98%D0%BD_%D0%B8%D0%BB%D0%B8_%D0%BC%D0%BE%D0%B4%D0%B5%D1%80%D0%BD%D0%B8_%D0%9F%D1%80%D0%BE%D0%BC%D0%B5%D1%82%D0%B5%D1%98" title="Франкенштајн или модерни Прометеј (serbio)" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Frankenstein" title="Frankenstein (sueco)" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a href="https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AE%BF%E0%AE%B0%E0%AE%BE%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%86%E0%AE%A9%E0%AF%8D%E0%AE%B8%E0%AF%8D%E0%AE%9F%E0%AF%88%E0%AE%A9%E0%AF%8D_(%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AE%BF%E0%AE%A9%E0%AE%AE%E0%AF%8D)" title="பிராங்கென்ஸ்டைன் (புதினம்) (tamil)" lang="ta" hreflang="ta" class="interlanguage-link-target"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B9%81%E0%B8%9F%E0%B8%A3%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%99%E0%B8%AA%E0%B9%84%E0%B8%95%E0%B8%99%E0%B9%8C" title="แฟรงเกนสไตน์ (tailandés)" lang="th" hreflang="th" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Frankenstein" title="Frankenstein (turco)" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D0%B5%D0%BD%D1%88%D1%82%D0%B0%D0%B9%D0%BD,_%D0%B0%D0%B1%D0%BE_%D0%A1%D1%83%D1%87%D0%B0%D1%81%D0%BD%D0%B8%D0%B9_%D0%9F%D1%80%D0%BE%D0%BC%D0%B5%D1%82%D0%B5%D0%B9" title="Франкенштайн, або Сучасний Прометей (ucraniano)" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a href="https://uz.wikipedia.org/wiki/Frankenshteyn,_yoki_Zamonaviy_Prometey" title="Frankenshteyn, yoki Zamonaviy Prometey (uzbeko)" lang="uz" hreflang="uz" class="interlanguage-link-target"><span>Oʻzbekcha / ўзбекча</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Frankenstein" title="Frankenstein (vietnamita)" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-war mw-list-item"><a href="https://war.wikipedia.org/wiki/Frankenstein" title="Frankenstein (waray)" lang="war" hreflang="war" class="interlanguage-link-target"><span>Winaray</span></a></li><li class="interlanguage-link interwiki-wuu mw-list-item"><a href="https://wuu.wikipedia.org/wiki/%E7%A7%91%E5%AD%A6%E6%80%AA%E4%BA%BA" title="科学怪人 (chino wu)" lang="wuu" hreflang="wuu" class="interlanguage-link-target"><span>吴语</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E7%A7%91%E5%AD%B8%E6%80%AA%E4%BA%BA" title="科學怪人 (chino)" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li><li class="interlanguage-link interwiki-zh-classical mw-list-item"><a href="https://zh-classical.wikipedia.org/wiki/%E7%A7%91%E5%AD%B8%E6%80%AA%E4%BA%BA" title="科學怪人 (Literary Chinese)" lang="lzh" hreflang="lzh" class="interlanguage-link-target"><span>文言</span></a></li><li class="interlanguage-link interwiki-zh-min-nan mw-list-item"><a href="https://zh-min-nan.wikipedia.org/wiki/Frankenstein" title="Frankenstein (chino min nan)" lang="nan" hreflang="nan" class="interlanguage-link-target"><span>Bân-lâm-gú</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/%E7%A7%91%E5%AD%B8%E6%80%AA%E4%BA%BA" title="科學怪人 (cantonés)" lang="yue" hreflang="yue" class="interlanguage-link-target"><span>粵語</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q150827#sitelinks-wikipedia" title="Editar enlaces interlingüísticos" class="wbc-editpage">Editar enlaces</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Espacios de nombres">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Frankenstein_o_el_moderno_Prometeo" title="Ver la página de contenido [c]" accesskey="c"><span>Artículo</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Discusi%C3%B3n:Frankenstein_o_el_moderno_Prometeo" rel="discussion" title="Discusión acerca de la página [t]" accesskey="t"><span>Discusión</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Cambiar variante de idioma"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">español</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Vistas">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Frankenstein_o_el_moderno_Prometeo"><span>Leer</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Frankenstein_o_el_moderno_Prometeo&amp;action=edit" title="Editar esta página [e]" accesskey="e"><span>Editar</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Frankenstein_o_el_moderno_Prometeo&amp;action=history" title="Versiones anteriores de esta página [h]" accesskey="h"><span>Ver historial</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Herramientas"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Herramientas</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Herramientas</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">mover a la barra lateral</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">ocultar</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="Más opciones" >
+	<div class="vector-menu-heading">
+		Acciones
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Frankenstein_o_el_moderno_Prometeo"><span>Leer</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Frankenstein_o_el_moderno_Prometeo&amp;action=edit" title="Editar esta página [e]" accesskey="e"><span>Editar</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Frankenstein_o_el_moderno_Prometeo&amp;action=history"><span>Ver historial</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Especial:LoQueEnlazaAqu%C3%AD/Frankenstein_o_el_moderno_Prometeo" title="Lista de todas las páginas de la wiki que enlazan aquí [j]" accesskey="j"><span>Lo que enlaza aquí</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Especial:CambiosEnEnlazadas/Frankenstein_o_el_moderno_Prometeo" rel="nofollow" title="Cambios recientes en las páginas que enlazan con esta [k]" accesskey="k"><span>Cambios en enlazadas</span></a></li><li id="t-upload" class="mw-list-item"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=es" title="Subir archivos [u]" accesskey="u"><span>Subir archivo</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Especial:P%C3%A1ginasEspeciales" title="Lista de todas las páginas especiales [q]" accesskey="q"><span>Páginas especiales</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Frankenstein_o_el_moderno_Prometeo&amp;oldid=155494361" title="Enlace permanente a esta versión de la página"><span>Enlace permanente</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Frankenstein_o_el_moderno_Prometeo&amp;action=info" title="Más información sobre esta página"><span>Información de la página</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Especial:Citar&amp;page=Frankenstein_o_el_moderno_Prometeo&amp;id=155494361&amp;wpFormIdentifier=titleform" title="Información sobre cómo citar esta página"><span>Citar esta página</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Especial:Acortador_de_URL&amp;url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FFrankenstein_o_el_moderno_Prometeo"><span>Obtener URL acortado</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q150827" title="Enlace al elemento conectado del repositorio de datos [g]" accesskey="g"><span>Elemento de Wikidata</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Imprimir/exportar
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=Especial:Libro&amp;bookcmd=book_creator&amp;referer=Frankenstein+o+el+moderno+Prometeo"><span>Crear un libro</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Especial:DownloadAsPdf&amp;page=Frankenstein_o_el_moderno_Prometeo&amp;action=show-download-screen"><span>Descargar como PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Frankenstein_o_el_moderno_Prometeo&amp;printable=yes" title="Versión imprimible de esta página [p]" accesskey="p"><span>Versión para imprimir</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		En otros proyectos
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Frankenstein_(book)" hreflang="en"><span>Wikimedia Commons</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="Page tools">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">De Wikipedia, la enciclopedia libre</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="es" dir="ltr"><div class="rellink noprint hatnote">Este artículo trata sobre la novela de Mary Shelley. Para otros usos de este término, véase <a href="/wiki/Frankenstein_(desambiguaci%C3%B3n)" class="mw-disambig" title="Frankenstein (desambiguación)">Frankenstein (desambiguación)</a>.</div>
+<style data-mw-deduplicate="TemplateStyles:r149592226">.mw-parser-output .infobox .imagen{max-width:100%;margin:0 auto}.mw-parser-output .infobox .imagen img{max-width:100%;height:auto}body.skin-timeless .mw-parser-output .infobox .imagen a.image>img{max-width:100%!important;height:auto!important}</style><table class="infobox" style="width:22.7em; line-height: 1.4em; text-align:left; padding:.23em;"><tbody><tr><th colspan="3" class="cabecera libro" style="text-align:center;background-color:transparent;color:inherit;background-color:LightSteelBlue; color:#000; font-style:italic;">Frankenstein o el moderno Prometeo</th></tr><tr><td colspan="3" style="text-align:center;font-size:105%; background-color:#d8e2ee;;">
+<small>de</small>&#160;<b><a href="/wiki/Mary_Shelley" title="Mary Shelley">Mary Shelley</a></b></td></tr><tr><td colspan="3" class="imagen" style="text-align:center;width:65%;">
+<span typeof="mw:File"><a href="/wiki/Archivo:Frankenstein.1831.inside-cover.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Frankenstein.1831.inside-cover.jpg/215px-Frankenstein.1831.inside-cover.jpg" decoding="async" width="215" height="323" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Frankenstein.1831.inside-cover.jpg/323px-Frankenstein.1831.inside-cover.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Frankenstein.1831.inside-cover.jpg/430px-Frankenstein.1831.inside-cover.jpg 2x" data-file-width="1760" data-file-height="2640" /></a></span><br /><div style="display:inline;font-size:88%;">Portada de <i>Frankenstein o el moderno Prometeo</i> de <a href="/wiki/Mary_Shelley" title="Mary Shelley">Mary Shelley</a>.</div></td></tr><tr><th scope="row" style="text-align:left;width:35%;">Género</th><td colspan="2" style="width:65%;">
+<a href="/wiki/Novela" title="Novela">Novela</a><span class="wikidata-link lapiz noprint"> <span class="mw-valign-baseline" typeof="mw:File"><a href="https://www.wikidata.org/wiki/Q150827?uselang=es#P136" title="Ver y modificar los datos en Wikidata"><img alt="Ver y modificar los datos en Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600" /></a></span></span></td></tr><tr><th scope="row" style="text-align:left;width:35%;">Subgénero</th><td colspan="2" style="width:65%;">
+<a href="/wiki/Novela_epistolar" title="Novela epistolar">Novela epistolar</a>, body horror literature, ficción gótica, <a href="/wiki/Ciencia_ficci%C3%B3n" title="Ciencia ficción">ciencia ficción</a> y <a href="/wiki/Literatura_fant%C3%A1stica" title="Literatura fantástica">literatura fantástica</a><span class="wikidata-link lapiz noprint"> <span class="mw-valign-baseline" typeof="mw:File"><a href="https://www.wikidata.org/wiki/Q150827?uselang=es#P136" title="Ver y modificar los datos en Wikidata"><img alt="Ver y modificar los datos en Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600" /></a></span></span></td></tr><tr><th scope="row" style="text-align:left;width:35%;">Idioma</th><td colspan="2" style="width:65%;">
+<a href="/wiki/Idioma_ingl%C3%A9s" title="Idioma inglés">Inglés</a></td></tr><tr><th scope="row" style="text-align:left;width:35%;">Título original</th><td colspan="2" style="font-style:italic;">
+Frankenstein; or, The Modern Prometheus</td></tr><tr><th scope="row" style="text-align:left;width:35%;">Texto original</th><td colspan="2" style="width:65%;">
+<i><a href="https://en.wikipedia.org/wiki/s:Frankenstein,_or_the_Modern_Prometheus" class="extiw" title="en:s:Frankenstein, or the Modern Prometheus">Frankenstein, or the Modern Prometheus</a></i> en <a href="/wiki/Wikisource" title="Wikisource">Wikisource</a></td></tr><tr><th scope="row" style="text-align:left;width:35%;">Editorial</th><td colspan="2" class="plainlist" style="width:65%;">
+Lackington, Hughes, Harding, Mavor &amp; Jones</td></tr><tr><th scope="row" style="text-align:left;width:35%;">Ciudad</th><td colspan="2" style="width:65%;">
+<a href="/wiki/Londres" title="Londres">Londres</a><span class="wikidata-link lapiz noprint"> <span class="mw-valign-baseline" typeof="mw:File"><a href="https://www.wikidata.org/wiki/Q150827?uselang=es#P291" title="Ver y modificar los datos en Wikidata"><img alt="Ver y modificar los datos en Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600" /></a></span></span></td></tr><tr><th scope="row" style="text-align:left;width:35%;">País</th><td colspan="2" style="width:65%;">
+<a href="/wiki/Reino_Unido_de_Gran_Breta%C3%B1a_e_Irlanda" title="Reino Unido de Gran Bretaña e Irlanda">Reino Unido</a></td></tr><tr><th scope="row" style="text-align:left;width:35%;">Fecha de publicación</th><td colspan="2" style="width:65%;">
+1 de enero de 1818</td></tr><tr><th colspan="3" style="text-align:center;background-color:LightSteelBlue; color:#000;;">Serie</th></tr><tr style="font-size:88%;text-align:center;"><td style="width:33%;padding:0.2em 0.1em 0.2em 0;vertical-align:middle;"><div style="display:inline;font-style:italic;"><a href="/wiki/Historia_de_una_excursi%C3%B3n_de_seis_semanas" title="Historia de una excursión de seis semanas">Historia de una excursión de seis semanas</a><span class="wikidata-link lapiz noprint"> <span class="mw-valign-baseline" typeof="mw:File"><a href="https://www.wikidata.org/wiki/Q150827?uselang=es#P155" title="Ver y modificar los datos en Wikidata"><img alt="Ver y modificar los datos en Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600" /></a></span></span></div></td><td style="width:33%;padding:0.2em 0.1em;vertical-align:middle;background-color:#d8e2ee;"><div style="display:inline;font-weight:bold;font-style:italic;">Frankenstein o el moderno Prometeo</div></td><td style="width:33%;padding:0.2em 0 0.2em 0.1em;vertical-align:middle;"><div style="display:inline;font-style:italic;"><a href="/wiki/Valperga_(novela)" title="Valperga (novela)">Valperga</a><span class="wikidata-link lapiz noprint"> <span class="mw-valign-baseline" typeof="mw:File"><a href="https://www.wikidata.org/wiki/Q150827?uselang=es#P156" title="Ver y modificar los datos en Wikidata"><img alt="Ver y modificar los datos en Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600" /></a></span></span></div></td></tr><tr><td class="noprint" colspan="3" style="text-align:left;"><div class="plainlinks wikidata-link" style="font-size: 0.85em">&#x5b;<a href="https://www.wikidata.org/wiki/Q150827" class="extiw" title="d:Q150827">editar datos en Wikidata</a>&#x5d;</div></td></tr></tbody></table>
+<p><i><b>Frankenstein o el moderno Prometeo</b></i>, o simplemente <i><b>Frankenstein</b></i> (título original en inglés: <i>Frankenstein; or, The Modern Prometheus</i>), es una obra literaria de la escritora <a href="/wiki/Inglaterra" title="Inglaterra">inglesa</a> <a href="/wiki/Mary_Shelley" title="Mary Shelley">Mary Shelley</a>. Publicado el 1 de enero de 1818 y enmarcado en la tradición de la <a href="/wiki/Novela_g%C3%B3tica" class="mw-redirect" title="Novela gótica">novela gótica</a>, el texto habla de temas tales como la <a href="/wiki/Moral" title="Moral">moral</a> científica, la creación y destrucción de vida y el atrevimiento de la humanidad en su relación con <a href="/wiki/Dios" title="Dios">Dios</a>. De ahí, el subtítulo de la obra: el protagonista intenta rivalizar en poder con Dios, como una suerte de <a href="/wiki/Prometeo" title="Prometeo">Prometeo</a> moderno que arrebata el fuego sagrado de la vida a la divinidad. Aunque <i>Frankenstein</i> está impregnado de elementos de la <a href="/wiki/Novela_g%C3%B3tica" class="mw-redirect" title="Novela gótica">novela gótica</a> y el <a href="/wiki/Romanticismo" title="Romanticismo">movimiento romántico</a>, el escritor y editor de ciencia ficción <a href="/wiki/Brian_W._Aldiss" title="Brian W. Aldiss">Brian Aldiss</a> ha argumentado que debería considerarse la primera historia verdadera de <a href="/wiki/Ciencia_ficci%C3%B3n" title="Ciencia ficción">ciencia ficción</a>.<sup id="cite_ref-Aldiss_1-0" class="reference separada"><a href="#cite_note-Aldiss-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>&#8203;<sup id="cite_ref-BNE_2-0" class="reference separada"><a href="#cite_note-BNE-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>&#8203;<sup id="cite_ref-Zenda_3-0" class="reference separada"><a href="#cite_note-Zenda-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>&#8203;<sup id="cite_ref-BBVA_4-0" class="reference separada"><a href="#cite_note-BBVA-4"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></a></sup>&#8203; Sin embargo, <a href="/wiki/Carl_Sagan" title="Carl Sagan">Carl Sagan</a> e <a href="/wiki/Isaac_Asimov" title="Isaac Asimov">Isaac Asimov</a> coinciden en que <a href="/wiki/Somnium" title="Somnium">Somnium</a> (1634) de <a href="/wiki/Johannes_Kepler" title="Johannes Kepler">Johannes Kepler</a> es el primer relato de ciencia ficción como tal.<sup id="cite_ref-5" class="reference separada"><a href="#cite_note-5"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></a></sup>&#8203;<sup id="cite_ref-6" class="reference separada"><a href="#cite_note-6"><span class="corchete-llamada">[</span>6<span class="corchete-llamada">]</span></a></sup>&#8203;
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span id="G.C3.A9nesis"></span><span class="mw-headline" id="Génesis">Génesis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Frankenstein_o_el_moderno_Prometeo&amp;action=edit&amp;section=1" title="Editar sección: Génesis"><span>editar</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Durante el verano boreal de 1816, el <a href="/wiki/A%C3%B1o_sin_verano" title="Año sin verano">año sin verano</a>, el hemisferio norte soportó un largo y frío «invierno volcánico» debido a la erupción del volcán <a href="/wiki/Tambora" title="Tambora">Tambora</a>. Durante este terrible año, <a href="/wiki/Mary_Shelley" title="Mary Shelley">Mary Shelley</a> y su marido <a href="/wiki/Percy_Bysshe_Shelley" title="Percy Bysshe Shelley">Percy Bysshe Shelley</a> hicieron una visita a su amigo <a href="/wiki/Lord_Byron" title="Lord Byron">Lord Byron</a> que entonces residía en <a href="/wiki/Villa_Diodati" title="Villa Diodati">Villa Diodati</a>, <a href="/wiki/Suiza" title="Suiza">Suiza</a>. Después de leer una antología alemana de historias de <a href="/wiki/Fantasma" title="Fantasma">fantasmas</a>, Byron retó a los Shelley y a su médico personal <a href="/wiki/John_Polidori" class="mw-redirect" title="John Polidori">John Polidori</a> a componer, cada uno, una historia de terror. De los cuatro, solo Polidori completó la historia, pero Mary concibió una idea: esa idea fue el germen de la que es considerada la primera historia moderna de ciencia ficción y una excelente <a href="/wiki/Novela_de_terror" title="Novela de terror">novela de terror</a> gótico. Pocos días después tuvo una pesadilla o ensoñación y escribió lo que sería el cuarto capítulo del libro. Se basó en las conversaciones que mantenían con frecuencia Polidori y Percy Shelley respecto de las nuevas investigaciones de <a href="/wiki/Luigi_Galvani" title="Luigi Galvani">Luigi Galvani</a> y de <a href="/wiki/Erasmus_Darwin" title="Erasmus Darwin">Erasmus Darwin</a> que trataban sobre el poder de la electricidad para revivir cuerpos ya inertes, descubriéndolo con lo que se conoce como <a href="/wiki/Experimentos_galv%C3%A1nicos" title="Experimentos galvánicos">experimentos galvánicos</a>.
+</p><p>También es interesante señalar que Byron se las arregló para escribir un fragmento basado en las <a href="/wiki/Leyenda" title="Leyenda">leyendas</a> sobre <a href="/wiki/Vampiro" title="Vampiro">vampiros</a> que había oído durante sus viajes a través de los <a href="/wiki/Balcanes" class="mw-redirect" title="Balcanes">Balcanes</a>. Polidori utilizó este fragmento para crear la novela <i><a href="/wiki/El_vampiro_(1819)" title="El vampiro (1819)">El vampiro</a></i> en 1819, que es también la primera referencia literaria de este subgénero del terror. Así que, en cierta manera, los temas de Frankenstein y el vampiro fueron creados más o menos en la misma circunstancia.
+</p><p>Para la consecución final de su obra Mary recurrió a Percy para que le ayudara en sus errores gramaticales y en la fluidez del texto en 1817, en su estancia en Marlow. En 1831 Mary reescribió la obra entera, algo que ya tenía pensado desde 1818.
+</p><p>Gracias al manuscrito original encontrado en la <a href="/wiki/Biblioteca_Bodleiana" title="Biblioteca Bodleiana">Biblioteca Bodleiana</a> de la <a href="/wiki/Universidad_de_Oxford" title="Universidad de Oxford">Universidad de Oxford</a> se pudo realizar la edición de la obra original, sin intervención de Percy Shelley, al que por otra parte habría que reconocer la coautoría de la edición de 1818. Por tanto tenemos tres ediciones de la obra: la original de 1817, la modificada de 1818 con la ayuda de Percy Shelley, y la reescrita en 1831. La edición original se muestra más descarnada y dura.
+</p><p>Poco después de <i>Frankenstein</i> hubo varios relatos que utilizaban la <a href="/wiki/Inmortalidad" title="Inmortalidad">inmortalidad</a> como argumento, como el relato vampírico titulado <i><a href="/wiki/El_esqueleto_del_conde,_o_la_amante_vampiro" title="El esqueleto del conde, o la amante vampiro">El esqueleto del Conde<i> o </i>La amante vampiro</a></i>, en donde el Conde revive a una fallecida muchacha utilizando la electricidad. Esta obra fue realizada por <a href="/wiki/Elizabeth_Caroline_Grey" title="Elizabeth Caroline Grey">Elizabeth Caroline Grey</a>, según investigaciones de Peter Haining.
+</p><p>Respecto del personaje del doctor Frankenstein cabe señalar que una referencia fue el científico <i>amateur</i> <a href="/w/index.php?title=Andrew_Crosse&amp;action=edit&amp;redlink=1" class="new" title="Andrew Crosse (aún no redactado)">Andrew Crosse</a>. Mary Shelley conocía las actividades de Crosse, contemporáneo suyo, a través de un amigo común, el poeta <i>lakista</i> <a href="/wiki/Robert_Southey" title="Robert Southey">Robert Southey</a>. Andrew Crosse solía experimentar con cadáveres y electricidad (en aquel entonces una energía apenas estudiada y rodeada de un halo de misterio y omnipotencia). El 28 de diciembre de 1814 Mary asistió, junto a su esposo, a una conferencia del extravagante científico. En ella lo conoció en persona y extrajo muchos datos acerca de la forma en la que afirmaba crear vida a partir de la electricidad. En 1807, Crosse había empezado el experimento de creación de vida a partir de «electro-cristalización» de materia inanimada. El mismo año afirmó haber creado pequeñas criaturas en forma de insectos que lograban andar y desenvolverse por sí mismas: «el insecto perfecto, de pie sobre unas pocas cerdas que formaban su cola». El científico nunca llegó a explicar el supuesto fenómeno como así reconocería más adelante. En 1807 había consenso científico respecto a descartar la <a href="/wiki/Generaci%C3%B3n_espont%C3%A1nea" title="Generación espontánea">generación espontánea</a> como origen de la vida, si bien la <a href="/wiki/Esterilizaci%C3%B3n_(microbiolog%C3%ADa)" title="Esterilización (microbiología)">esterilización</a> de las muestras no era una práctica extendida ni seguramente conocida por un experimentador sin formación. Muy probablemente Crosse solo criara pequeños insectos a partir de huevos depositados en su «materia inanimada».
+</p><p>La dura oposición a Crosse no solo fue científica, sino religiosa, y optó por retirarse a la soledad de su mansión de Fyne Court. Los estamentos eclesiásticos consideraron a Crosse un ser endemoniado. Se llegó al extremo de que el reverendo Philip Smith tuvo que celebrar una serie de exorcismos en todas las propiedades de Andrew Crosse, en sus equipos de trabajo y sobre su propia persona. Crosse se volvió huraño y desconfiado, aunque continuó investigando. Sin embargo el 26 de mayo de 1855 tuvo un ataque de parálisis del que nunca se recuperó. El 6 de julio del mismo año falleció. La mansión de Fyne Court fue pasto de las llamas, y con ellas se fueron el laboratorio y los archivos del hombre que afirmó haber creado vida.
+</p>
+<h2><span class="mw-headline" id="Argumento">Argumento</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Frankenstein_o_el_moderno_Prometeo&amp;action=edit&amp;section=2" title="Editar sección: Argumento"><span>editar</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure typeof="mw:File/Thumb"><a href="/wiki/Archivo:CC_No_26_Frankenstein_2.JPG" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/CC_No_26_Frankenstein_2.JPG/200px-CC_No_26_Frankenstein_2.JPG" decoding="async" width="200" height="278" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/CC_No_26_Frankenstein_2.JPG/300px-CC_No_26_Frankenstein_2.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/CC_No_26_Frankenstein_2.JPG/400px-CC_No_26_Frankenstein_2.JPG 2x" data-file-width="438" data-file-height="608" /></a><figcaption>Portada de <a href="/wiki/Classic_Comics" title="Classic Comics">Classic Comics</a>.</figcaption></figure>
+<p>La novela narra la historia de <a href="/wiki/V%C3%ADctor_Frankenstein" title="Víctor Frankenstein">Víctor Frankenstein</a>, un estudiante de ciencias naturales de la universidad de <a href="/wiki/Ingolstadt" title="Ingolstadt">Ingolstadt</a> que consigue dar vida a un ser de apariencia humana pero de dos metros y medio de altura y aspecto repulsivo. El monstruo, de cuya creación no se dan detalles, carece de nombre y es referido como "ser demoníaco", "engendro", "criatura" u "horrendo huésped".
+</p><p>Víctor Frankenstein comprende en ese momento el horror que ha creado, rechaza con espanto el resultado de su experimento y huye de su laboratorio. Al volver, el monstruo ha desaparecido y él cree que todo ha concluido. Pero la sombra de su pecado le persigue: el monstruo, tras huir del laboratorio, siente el rechazo de la humanidad y se despierta en él el odio y la sed de venganza. Tras un período de convalecencia debido al exceso de trabajo, y después de enterarse del asesinato de su hermano menor William, Víctor regresa a su <a href="/wiki/Ginebra_(ciudad)" class="mw-redirect" title="Ginebra (ciudad)">Ginebra</a> natal con su familia y su prometida, solo para descubrir que detrás del crimen está el furor de la criatura que él ha traído a la vida. La culpa de Víctor se hace mayor cuando permite que una sirvienta de la familia —Justine Moritz— sea condenada a muerte y ejecutada, acusada del crimen.
+</p><p>Víctor decide ir a la montaña para recuperar su decaído ánimo. Cerca del Montblanc se encuentra de nuevo con el monstruo. Este le cuenta cómo inicialmente era bondadoso e inocente: su único objetivo vital era amar y ser amado, e incluso seguía de forma consecuente una dieta vegetariana. Aprendió a hablar espiando secretamente a una familia a la que ofrecía pequeños regalos de forma anónima, pero la familia le rechazó al descubrir su aspecto físico, rechazo que se repitió ante cada encuentro con seres humanos. El monstruo admite el asesinato de William y la tergiversación de las pruebas que dan lugar a la condena de Justine, pues responsabiliza a Víctor, su creador, de negarle la oportunidad de ser feliz. La criatura le pide entonces que complete su obra y cree una compañera para él, a cambio de lo cual promete exiliarse a tierras lejanas.
+</p><p>Su discurso y sus motivos son tan elocuentes que Víctor accede a la petición y promete crearle una compañera. En una isla de <a href="/wiki/Escocia" title="Escocia">Escocia</a> establece un nuevo laboratorio. Allí comienza de nuevo a experimentar. Pero sus remordimientos son fuertes y al final decide destruir la segunda creación antes de llegar a darle vida. Entonces el monstruo, que sigue de cerca los trabajos de Víctor, jura vengarse. Esta venganza tomará forma con el asesinato de su mejor amigo Henry y después, con el asesinato de Elizabeth, la prometida de Víctor, en la noche de bodas de ambos. A causa de todas estas muertes en su familia, el padre de Víctor, Alphonse, muere víctima de la más profunda tristeza.
+</p><p>Decidido finalmente a terminar con su creación, Víctor persigue a la criatura hasta el confín del mundo, camino al Polo Norte. Víctor termina por desfallecer a causa del clima helado y el agotamiento, y se encuentra con un barco que se dirige al Polo Norte y lo recoge entre los hielos del <a href="/wiki/%C3%81rtico" title="Ártico">Ártico</a>. Recibe auxilio de la tripulación, se hace amigo del capitán Robert Walton y le cuenta toda su terrible historia. Pero a los pocos días muere sin haber logrado su deseo de acabar con el monstruo.
+</p><p>La novela termina con la criatura, abrumada por los remordimientos, abordando el barco y prometiendo al capitán que pondrá fin a su miserable existencia:
+</p>
+<style data-mw-deduplicate="TemplateStyles:r149592375">.mw-parser-output .flexquote{display:flex;flex-direction:column;background-color:#F9F9F9;border-left:3px solid #c8ccd1;font-size:90%;margin:1em 4em;padding:.4em .8em}.mw-parser-output .flexquote>.flex{display:flex;flex-direction:row}.mw-parser-output .flexquote>.flex>.quote{width:100%}.mw-parser-output .flexquote>.flex>.separator{border-left:1px solid #c8ccd1;border-top:1px solid #c8ccd1;margin:.4em .8em}.mw-parser-output .flexquote>.cite{text-align:right}@media all and (max-width:600px){.mw-parser-output .flexquote>.flex{flex-direction:column}}</style>
+<blockquote class="flexquote">
+ <div class="flex">
+  <div class="quote">«No tema usted, no cometeré más crímenes. Mi tarea ha terminado. Ni su vida ni la de ningún otro ser humano son necesarias ya para que se cumpla lo que debe cumplirse. Bastará con una sola existencia: la mía. Y no tardaré en efectuar esta inmolación. Dejaré su navío, tomaré el trineo que me ha conducido hasta aquí y me dirigiré al más alejado y septentrional lugar del hemisferio; allí recogeré todo cuanto pueda arder para construir una pira en la que pueda consumirse mi mísero cuerpo».</div>
+ </div>
+</blockquote>
+<p>La novela es narrada a través del diario del navegante Robert Walton durante su comunicación epistolar con su hermana Margaret de Saville. Después la historia pasa a ser el relato del Doctor Víctor Frankenstein y más adelante prosigue el diario de Robert Walton.
+</p>
+<h2><span id="Tem.C3.A1tica"></span><span class="mw-headline" id="Temática">Temática</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Frankenstein_o_el_moderno_Prometeo&amp;action=edit&amp;section=3" title="Editar sección: Temática"><span>editar</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>La novela se subtitula <i>El moderno Prometeo</i>, sugiriendo de esta manera la principal fuente de su inspiración. Una de las obras favoritas de <a href="/wiki/Byron" class="mw-redirect" title="Byron">Byron</a> era la obra <a href="/wiki/Teatro" title="Teatro">teatral</a> de <a href="/wiki/Esquilo" title="Esquilo">Esquilo</a>, y el propio Percy Shelley escribió sobre el tema. <a href="/wiki/Prometeo" title="Prometeo">Prometeo</a> también se presenta a veces como el escultor de la humanidad, un <a href="/wiki/Tit%C3%A1n_(mitolog%C3%ADa)" title="Titán (mitología)">titán</a> que, según explicaría esta leyenda, creó al hombre a partir de la arcilla. La novela no es una simple reescritura del mito clásico, ya que, a diferencia del titán, el moderno Prometeo no es castigado por los dioses, sino por su propia creación. En cierto sentido, el de Prometeo es otra elaboración del mito de diferenciación entre la humanidad y la naturaleza, por el conocimiento y la técnica, y el castigo que ello conlleva, y tiene conexiones con la idea bíblica del <a href="/wiki/Demonio" title="Demonio">demonio</a>. La descripción de la criatura realizada por Mary Shelley se nutre directamente del personaje de <a href="/wiki/Sat%C3%A1n" class="mw-redirect" title="Satán">Satán</a> en <i>"<a href="/wiki/El_para%C3%ADso_perdido" title="El paraíso perdido">El paraíso perdido</a>"</i> de <a href="/wiki/John_Milton" title="John Milton">John Milton</a> (uno de los hitos en la historia de la literatura británica, muy valorado por los intelectuales de principios del siglo&#160;<span style="font-variant:small-caps;text-transform:lowercase">XVIII</span>). 	 
+</p><p>En cierta forma <i>Frankenstein</i> es una alegoría de la perversión que puede traer el desarrollo científico; concebido y escrito durante las fases tempranas de la <a href="/wiki/Revoluci%C3%B3n_industrial" class="mw-redirect" title="Revolución industrial">revolución industrial</a>, una época de cambios dramáticos, detrás de los experimentos de <a href="/wiki/V%C3%ADctor_Frankenstein" title="Víctor Frankenstein">Víctor Frankenstein</a> está la búsqueda del poder divino: ¿qué mayor poder que el propio acto de creación de la <a href="/wiki/Vida" title="Vida">vida</a>? Así, el total desprecio que muestra Frankenstein por la naturaleza puede ser considerado como símbolo de las fuerzas imperiosas que desata el permisivo <a href="/wiki/Capitalismo" title="Capitalismo">capitalismo</a> naciente, que no respeta la dignidad básica del ser humano. De hecho, la rebelión de la criatura contra su creador es un claro mensaje del castigo que deriva del uso irresponsable de la tecnología, siendo el mal solo una consecuencia imprevista de este uso.
+</p><p>Otra lectura del texto descubre en él una alegoría del embarazo y de los miedos frecuentes que las mujeres tenían en tiempos de Shelley de que el nacimiento acarrease consecuencias fatales para la madre o para los fetos prematuros. Esta interpretación se sustenta en el hecho de que Mary Shelley había tenido un parto prematuro poco antes del verano de 1816. Así, al igual que Mary, Víctor estaría obsesionado por la idea de que la criatura escapara a su control y pudiera ejercer el libre albedrío en un mundo que le afectaría de una u otra manera. Se argumenta a favor de este análisis que el personaje de Víctor teme, durante gran parte de la novela, que la criatura pueda destruirle asesinando a todos los que él más quiere y aprecia. 	 
+</p><p>El nombre de Frankenstein probablemente alude al <a href="/wiki/Z%C4%85bkowice_%C5%9Al%C4%85skie" title="Ząbkowice Śląskie">pueblo del mismo nombre</a> (entonces <a href="/wiki/Alemania" title="Alemania">alemán</a>, hoy en <a href="/wiki/Polonia" title="Polonia">Polonia</a>), donde se extraía plata y oro con nuevos procedimientos químicos que comportaron importantes problemas de salud. Otra teoría sostiene que refiere a un <a href="/wiki/Castillo_de_Frankenstein" title="Castillo de Frankenstein">castillo cercano</a> a <a href="/wiki/Darmstadt" title="Darmstadt">Darmstadt</a>, donde un notorio alquimista, llamado <a href="/wiki/Johann_Conrad_Dippel" title="Johann Conrad Dippel">Johann Conrad Dippel</a>, hizo algunos experimentos con cuerpos humanos. Mary Shelley habría conocido el castillo durante su viaje a <a href="/wiki/Suiza" title="Suiza">Suiza</a>.
+</p><p>La elección de la Universidad de la ciudad <a href="/wiki/Baviera" title="Baviera">bávara</a> de <a href="/wiki/Ingolstadt" title="Ingolstadt">Ingolstadt</a> como escenario de los experimentos de Víctor Frankenstein bien puede responder a la fama que tenía su departamento de medicina alrededor de 1800, año en el que fue cerrado. Por otra parte, era una idea corriente que la humanidad podía llegar a insuflar la chispa de la vida en la materia muerta.
+</p>
+<h2><span id="V.C3.A9ase_tambi.C3.A9n"></span><span class="mw-headline" id="Véase_también">Véase también</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Frankenstein_o_el_moderno_Prometeo&amp;action=edit&amp;section=4" title="Editar sección: Véase también"><span>editar</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Lista_de_obras_de_Mary_Shelley" class="mw-redirect" title="Lista de obras de Mary Shelley">Lista de obras de Mary Shelley</a></li>
+<li><a href="/wiki/Frankenstein_(Polonia)" class="mw-redirect" title="Frankenstein (Polonia)">Frankenstein (Polonia)</a></li></ul>
+<h2><span class="mw-headline" id="Referencias">Referencias</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Frankenstein_o_el_moderno_Prometeo&amp;action=edit&amp;section=5" title="Editar sección: Referencias"><span>editar</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="listaref" style="list-style-type: decimal;"><ol class="references">
+<li id="cite_note-Aldiss-1"><span class="mw-cite-backlink"><a href="#cite_ref-Aldiss_1-0">↑</a></span> <span class="reference-text"><span id="CITAREFJacinto_Antón28_de_enero_de_1993" class="citation noticia">Jacinto Antón (28 de enero de 1993). <a rel="nofollow" class="external text" href="https://elpais.com/diario/1993/01/28/cultura/728175603_850215.html">«Brian Aldiss: "La buena ciencia ficción, es una metáfora del presente<span style="padding-right:0.2em;">"</span>»</a>. <i>El País</i>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3AFrankenstein+o+el+moderno+Prometeo&amp;rft.atitle=Brian+Aldiss%3A+%22La+buena+ciencia+ficci%C3%B3n%2C+es+una+met%C3%A1fora+del+presente%22&amp;rft.au=Jacinto+Ant%C3%B3n&amp;rft.aulast=Jacinto+Ant%C3%B3n&amp;rft.date=28+de+enero+de+1993&amp;rft.genre=article&amp;rft.jtitle=El+Pa%C3%ADs&amp;rft_id=https%3A%2F%2Felpais.com%2Fdiario%2F1993%2F01%2F28%2Fcultura%2F728175603_850215.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-BNE-2"><span class="mw-cite-backlink"><a href="#cite_ref-BNE_2-0">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.bne.es/es/Micrositios/Guias/NovelaCienciaFiccion/Introduccion/">«La novela de ciencia ficción: una introducción»</a>. <i>Biblioteca Nacional de España</i><span class="reference-accessdate">. Consultado el 29 de enero de 2022</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3AFrankenstein+o+el+moderno+Prometeo&amp;rft.atitle=La+novela+de+ciencia+ficci%C3%B3n%3A+una+introducci%C3%B3n&amp;rft.genre=article&amp;rft.jtitle=Biblioteca+Nacional+de+Espa%C3%B1a&amp;rft_id=http%3A%2F%2Fwww.bne.es%2Fes%2FMicrositios%2FGuias%2FNovelaCienciaFiccion%2FIntroduccion%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-Zenda-3"><span class="mw-cite-backlink"><a href="#cite_ref-Zenda_3-0">↑</a></span> <span class="reference-text"><span id="CITAREFSergio_Bang6_de_septiembre_de_2018" class="citation noticia">Sergio Bang (6 de septiembre de 2018). <a rel="nofollow" class="external text" href="https://www.zendalibros.com/200-anos-de-frankenstein-200-anos-de-ciencia-ficcion/">«200 años de Frankenstein, 200 años de ciencia ficción»</a>. <i>Zenda Libros</i>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3AFrankenstein+o+el+moderno+Prometeo&amp;rft.atitle=200+a%C3%B1os+de+Frankenstein%2C+200+a%C3%B1os+de+ciencia+ficci%C3%B3n&amp;rft.au=Sergio+Bang&amp;rft.aulast=Sergio+Bang&amp;rft.date=6+de+septiembre+de+2018&amp;rft.genre=article&amp;rft.jtitle=Zenda+Libros&amp;rft_id=https%3A%2F%2Fwww.zendalibros.com%2F200-anos-de-frankenstein-200-anos-de-ciencia-ficcion%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-BBVA-4"><span class="mw-cite-backlink"><a href="#cite_ref-BBVA_4-0">↑</a></span> <span class="reference-text"><span id="CITAREFJavier_Yanes26_noviembre_2018" class="citation web">Javier Yanes (26 de noviembre de 2018). <a rel="nofollow" class="external text" href="https://www.bbvaopenmind.com/ciencia/biociencias/los-origenes-cientificos-de-frankenstein/">«Los orígenes científicos de Frankenstein»</a>. <i>BBVA OpenMind</i><span class="reference-accessdate">. Consultado el 29 de enero de 2022</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3AFrankenstein+o+el+moderno+Prometeo&amp;rft.atitle=Los+or%C3%ADgenes+cient%C3%ADficos+de+Frankenstein&amp;rft.au=Javier+Yanes&amp;rft.aulast=Javier+Yanes&amp;rft.date=26+noviembre+2018&amp;rft.genre=article&amp;rft.jtitle=BBVA+OpenMind&amp;rft_id=https%3A%2F%2Fwww.bbvaopenmind.com%2Fciencia%2Fbiociencias%2Flos-origenes-cientificos-de-frankenstein%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><span id="CITAREFDurán2017-01-23" class="citation web">Durán, Antonio J. (23 de enero de 2017). <a rel="nofollow" class="external text" href="https://institucional.us.es/blogimus/2017/01/1194/">«Kepler y la libertad de expresión»</a>. <i>Blog del Instituto de Matemáticas de la Universidad de Sevilla</i><span class="reference-accessdate">. Consultado el 15 de enero de 2023</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3AFrankenstein+o+el+moderno+Prometeo&amp;rft.atitle=Kepler+y+la+libertad+de+expresi%C3%B3n&amp;rft.au=Dur%C3%A1n%2C+Antonio+J.&amp;rft.aufirst=Antonio+J.&amp;rft.aulast=Dur%C3%A1n&amp;rft.date=2017-01-23&amp;rft.genre=article&amp;rft.jtitle=Blog+del+Instituto+de+Matem%C3%A1ticas+de+la+Universidad+de+Sevilla&amp;rft_id=https%3A%2F%2Finstitucional.us.es%2Fblogimus%2F2017%2F01%2F1194%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><span id="CITAREFConocimiento2015-11-16" class="citation web">Conocimiento, Ventana al (16 de noviembre de 2015). <a rel="nofollow" class="external text" href="https://www.bbvaopenmind.com/ciencia/grandes-personajes/kepler-padre-de-la-ciencia-ficcion/">«Kepler, padre de la ciencia ficción»</a>. <i>OpenMind</i><span class="reference-accessdate">. Consultado el 15 de enero de 2023</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3AFrankenstein+o+el+moderno+Prometeo&amp;rft.atitle=Kepler%2C+padre+de+la+ciencia+ficci%C3%B3n&amp;rft.au=Conocimiento%2C+Ventana+al&amp;rft.aufirst=Ventana+al&amp;rft.aulast=Conocimiento&amp;rft.date=2015-11-16&amp;rft.genre=article&amp;rft.jtitle=OpenMind&amp;rft_id=https%3A%2F%2Fwww.bbvaopenmind.com%2Fciencia%2Fgrandes-personajes%2Fkepler-padre-de-la-ciencia-ficcion%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+</ol></div>
+<h2><span id="Bibliograf.C3.ADa"></span><span class="mw-headline" id="Bibliografía">Bibliografía</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Frankenstein_o_el_moderno_Prometeo&amp;action=edit&amp;section=6" title="Editar sección: Bibliografía"><span>editar</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a href="/wiki/Archivo:Editions_of_Frankenstein.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Editions_of_Frankenstein.jpg/220px-Editions_of_Frankenstein.jpg" decoding="async" width="220" height="76" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Editions_of_Frankenstein.jpg/330px-Editions_of_Frankenstein.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Editions_of_Frankenstein.jpg/440px-Editions_of_Frankenstein.jpg 2x" data-file-width="2907" data-file-height="1008" /></a><figcaption>Ejemplares de varias ediciones de Frankenstein, mostradas juntas en la galería Ikon de <a href="/wiki/Birmingham" title="Birmingham">Birmingham</a> como parte de una exposición artística titulada "This Monster This Things".</figcaption></figure>
+<ul><li><span id="CITAREFShelley2013" class="citation libro"><a href="/wiki/Mary_Shelley" title="Mary Shelley">Shelley, Mary</a> (2013). <i>Frankenstein o el moderno Prometeo</i>. Estudio preliminar de <a href="/wiki/Antonio_Jos%C3%A9_Navarro" title="Antonio José Navarro">Antonio José Navarro</a>, traducción de <a href="/wiki/Francisco_Torres_Oliver" title="Francisco Torres Oliver">Francisco Torres Oliver</a>. Colección: Gótica / GOT-016, cartoné. Madrid: <a href="/wiki/Editorial_Valdemar" title="Editorial Valdemar">Editorial Valdemar</a>. <small><a href="/wiki/ISBN" title="ISBN">ISBN</a>&#160;<a href="/wiki/Especial:FuentesDeLibros/97884-7702-739-3" title="Especial:FuentesDeLibros/97884-7702-739-3">97884-7702-739-3</a></small>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3AFrankenstein+o+el+moderno+Prometeo&amp;rft.au=Shelley%2C+Mary&amp;rft.aufirst=Mary&amp;rft.aulast=Shelley&amp;rft.btitle=Frankenstein+o+el+moderno+Prometeo&amp;rft.date=2013&amp;rft.genre=book&amp;rft.isbn=97884-7702-739-3&amp;rft.place=Madrid&amp;rft.pub=Editorial+Valdemar&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li></ul>
+<dl><dt>Sobre la obra</dt></dl>
+<ul><li>«<a rel="nofollow" class="external text" href="http://asclepio.revistas.csic.es/index.php/asclepio/article/viewFile/177/173">De doctores y monstruos: La ciencia como transgresión en <i>Dr. Faustus</i>, <i>Frankenstein</i> y <i>Dr. Jekyll and Mr. Hyde</i></a>», <i>Asclepio, Revista de Historia de la Medicina y de la Ciencia</i>, CSIC, Volumen LIII, Madrid, 2001, de <a href="/wiki/Beatriz_Villaca%C3%B1as" title="Beatriz Villacañas">Beatriz Villacañas</a>.</li>
+<li><i>La mirada en el espejo: ensayo antropológico sobre Frankenstein de Mary Shelley</i>, de Francisco Rodríguez Valls. Oviedo, Septem Ediciones. 2001</li>
+<li><i>La familia del Dr. Frankenstein. Materiales para una historia del hombre artificial</i>, de Jesús Alonso Burgos. Alcalá Grupo Editorial, Jaén, 2007.</li>
+<li>Aldiss, Brian W. "On the Origin of Species: Mary Shelley". <i>Speculations on Speculation: Theories of Science Fiction</i>. Eds. James Gunn and Matthew Candelaria. Lanham, Maryland: Scarecrow, 2005.</li></ul>
+<h2><span class="mw-headline" id="Enlaces_externos">Enlaces externos</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Frankenstein_o_el_moderno_Prometeo&amp;action=edit&amp;section=7" title="Editar sección: Enlaces externos"><span>editar</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" decoding="async" width="15" height="20" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></span></span> <a href="/wiki/Wikimedia_Commons" title="Wikimedia Commons">Wikimedia Commons</a> alberga una categoría multimedia sobre <b><a href="https://commons.wikimedia.org/wiki/Category:Frankenstein" class="extiw" title="commons:Category:Frankenstein"><i>Frankenstein o el moderno Prometeo</i></a></b>.</li>
+<li><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Spanish_Wikiquote.SVG/12px-Spanish_Wikiquote.SVG.png" decoding="async" width="12" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Spanish_Wikiquote.SVG/19px-Spanish_Wikiquote.SVG.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/13/Spanish_Wikiquote.SVG/25px-Spanish_Wikiquote.SVG.png 2x" data-file-width="272" data-file-height="330" /></span></span> <a href="/wiki/Wikiquote" title="Wikiquote">Wikiquote</a> alberga frases célebres de o sobre <b><a href="https://es.wikiquote.org/wiki/Frankenstein_(novela)" class="extiw" title="q:Frankenstein (novela)"><i>Frankenstein o el moderno Prometeo</i></a></b>.</li>
+<li><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/15px-Wikisource-logo.svg.png" decoding="async" width="15" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/23px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/30px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></span></span> <a href="/wiki/Wikisource" title="Wikisource">Wikisource</a> en inglés contiene obras originales de o sobre <b><a href="https://es.wikisource.org/wiki/en:Frankenstein" class="extiw" title="s:en:Frankenstein"><i>Frankenstein o el moderno Prometeo</i></a></b>.</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20111027094336/http://www.edu.mec.gub.uy/biblioteca_digital/libros/S/Shelley,%20Mary%20-%20Frankenstein.pdf">Texto español</a> en la Biblioteca digital del <a href="/wiki/Ministerio_de_Educaci%C3%B3n_y_Cultura_de_Uruguay" title="Ministerio de Educación y Cultura de Uruguay">Ministerio de Educación y Cultura de Uruguay</a>.</li>
+<li><a rel="nofollow" class="external text" href="http://www.gutenberg.org/etext/84">Texto en inglés en formato electrónico y distribuible de forma gratuita</a> (<a href="/wiki/Proyecto_Gutenberg" title="Proyecto Gutenberg">Proyecto Gutenberg</a>)</li>
+<li><a rel="nofollow" class="external text" href="http://www.oratlas.com/library/book-cover/frankenstein/mary-shelley"><i>Frankenstein</i>, de Mary Shelley</a>. Libro completo en idioma original (inglés) para leer o escuchar en línea.</li>
+<li><a rel="nofollow" class="external text" href="http://www.maryshelley.nl">My Hideous Progeny</a>, sitio académico sobre Mary Shelley y <i>Frankenstein</i>, por Cynthia Hamberg <span style="color:#555;">(en inglés)</span></li></ul>
+<style data-mw-deduplicate="TemplateStyles:r149592108">.mw-parser-output .mw-authority-control{margin-top:1.5em}.mw-parser-output .mw-authority-control .navbox table{margin:0}.mw-parser-output .mw-authority-control .navbox hr:last-child{display:none}.mw-parser-output .mw-authority-control .navbox+.mw-mf-linked-projects{display:none}.mw-parser-output .mw-authority-control .mw-mf-linked-projects{display:flex;padding:0.5em;border:1px solid #c8ccd1;background-color:#eaecf0;color:#222222}.mw-parser-output .mw-authority-control .mw-mf-linked-projects ul li{margin-bottom:0}</style><div class="mw-authority-control"><div role="navigation" class="navbox" aria-label="Navbox" style="width: inherit;padding:3px"><table class="hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group" style="width: 12%; text-align:center;"><a href="/wiki/Control_de_autoridades" title="Control de autoridades">Control de autoridades</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><b>Proyectos Wikimedia</b></li>
+<li><span style="white-space:nowrap;"><span typeof="mw:File"><a href="/wiki/Wikidata" title="Wikidata"><img alt="Wd" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/20px-Wikidata-logo.svg.png" decoding="async" width="20" height="11" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/30px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/40px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a></span> Datos:</span> <span class="uid"><a href="https://www.wikidata.org/wiki/Q150827" class="extiw" title="wikidata:Q150827">Q150827</a></span></li>
+<li><span style="white-space:nowrap;"><span typeof="mw:File"><a href="/wiki/Wikimedia_Commons" title="Commonscat"><img alt="Commonscat" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" decoding="async" width="15" height="20" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></span> Multimedia:</span> <span class="uid"><span class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/wiki/Category:Frankenstein_(book)">Frankenstein (book)</a></span> / <span class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&amp;search=%22Q150827%22">Q150827</a></span></span></li></ul>
+<hr />
+<ul><li><b>Identificadores</b></li>
+<li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/viaf-185508590">WorldCat</a></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Fichero_de_Autoridades_Virtual_Internacional" title="Fichero de Autoridades Virtual Internacional">VIAF</a>:</span> <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/185508590/">185508590</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Biblioteca_Nacional_de_Espa%C3%B1a" title="Biblioteca Nacional de España">BNE</a>:</span> <span class="uid"><a rel="nofollow" class="external text" href="https://datos.bne.es/resource/XX2187643">XX2187643</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Biblioteca_Nacional_de_Francia" title="Biblioteca Nacional de Francia">BNF</a>:</span> <span class="uid"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb11953887q">11953887q</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb11953887q">(data)</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei">GND</a>:</span> <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4220200-0">4220200-0</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>:</span> <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/n84007242">n84007242</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Biblioteca_Nacional_de_la_Rep%C3%BAblica_Checa" title="Biblioteca Nacional de la República Checa">NKC</a>:</span> <span class="uid"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=jo2016899668">jo2016899668</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Biblioteca_Nacional_de_Australia" title="Biblioteca Nacional de Australia">NLA</a>:</span> <span class="uid"><a rel="nofollow" class="external text" href="https://librariesaustralia.nla.gov.au/search/display?dbid=auth&amp;id=35303735">35303735</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Biblioteca_Nacional_de_Israel" title="Biblioteca Nacional de Israel">NLI</a>:</span> <span class="uid"><a rel="nofollow" class="external text" href="http://uli.nli.org.il/F/?func=find-b&amp;local_base=NLX10&amp;find_code=UID&amp;request=987007595000705171">987007595000705171</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>:</span> <span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/027515354">027515354</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Open_Library" title="Open Library">Open Library</a>:</span> <span class="uid"><a rel="nofollow" class="external text" href="https://openlibrary.org/works/OL450125W?mode=all">OL450125W</a></span></li>
+<li><b>Diccionarios y enciclopedias</b></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Enciclopedia_Brit%C3%A1nica" title="Enciclopedia Británica">Britannica</a>:</span> <span class="uid"><a rel="nofollow" class="external text" href="https://www.britannica.com/topic/Frankenstein-or-The-Modern-Prometheus">url</a></span></li></ul>
+</div></td></tr></tbody></table></div><div class="mw-mf-linked-projects hlist">
+<ul><li><span style="white-space:nowrap;"><span typeof="mw:File"><a href="/wiki/Wikidata" title="Wikidata"><img alt="Wd" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/20px-Wikidata-logo.svg.png" decoding="async" width="20" height="11" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/30px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/40px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a></span> Datos:</span> <span class="uid"><a href="https://www.wikidata.org/wiki/Q150827" class="extiw" title="wikidata:Q150827">Q150827</a></span></li>
+<li><span style="white-space:nowrap;"><span typeof="mw:File"><a href="/wiki/Wikimedia_Commons" title="Commonscat"><img alt="Commonscat" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" decoding="async" width="15" height="20" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></span> Multimedia:</span> <span class="uid"><span class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/wiki/Category:Frankenstein_(book)">Frankenstein (book)</a></span> / <span class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&amp;search=%22Q150827%22">Q150827</a></span></span></li></ul>
+</div></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐api‐ext.codfw.main‐6f6b58c799‐697c9
+Cached time: 20231120020406
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.361 seconds
+Real time usage: 0.553 seconds
+Preprocessor visited node count: 1027/1000000
+Post‐expand include size: 32476/2097152 bytes
+Template argument size: 1390/2097152 bytes
+Highest expansion depth: 9/100
+Expensive parser function count: 19/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 9503/5000000 bytes
+Lua time usage: 0.250/10.000 seconds
+Lua memory usage: 7408232/52428800 bytes
+Number of Wikibase entities loaded: 13/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  475.802      1 -total
+ 48.27%  229.678      1 Plantilla:Control_de_autoridades
+ 31.90%  151.772      1 Plantilla:Ficha_de_libro
+  8.63%   41.054      1 Plantilla:Listaref
+  5.30%   25.235      2 Plantilla:Cita_noticia
+  3.21%   15.284      1 Plantilla:Otros_usos
+  2.82%   13.406      1 Plantilla:Texto_de_la_coletilla_del_título
+  1.97%    9.376      4 Plantilla:Cita_web
+  1.72%    8.192      1 Plantilla:Cita
+  1.51%    7.182      1 Plantilla:Commonscat
+-->
+
+<!-- Saved in parser cache with key eswiki:pcache:idhash:72355-0!canonical and timestamp 20231120020406 and revision id 155494361. Rendering was triggered because: edit-page
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Obtenido de «<a dir="ltr" href="https://es.wikipedia.org/w/index.php?title=Frankenstein_o_el_moderno_Prometeo&amp;oldid=155494361">https://es.wikipedia.org/w/index.php?title=Frankenstein_o_el_moderno_Prometeo&amp;oldid=155494361</a>»</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Especial:Categor%C3%ADas" title="Especial:Categorías">Categorías</a>: <ul><li><a href="/wiki/Categor%C3%ADa:Novelas_epistolares" title="Categoría:Novelas epistolares">Novelas epistolares</a></li><li><a href="/wiki/Categor%C3%ADa:Novelas_g%C3%B3ticas" title="Categoría:Novelas góticas">Novelas góticas</a></li><li><a href="/wiki/Categor%C3%ADa:Novelas_de_ciencia_ficci%C3%B3n" title="Categoría:Novelas de ciencia ficción">Novelas de ciencia ficción</a></li><li><a href="/wiki/Categor%C3%ADa:Novelas_fant%C3%A1sticas" title="Categoría:Novelas fantásticas">Novelas fantásticas</a></li><li><a href="/wiki/Categor%C3%ADa:Novelas_de_1818" title="Categoría:Novelas de 1818">Novelas de 1818</a></li><li><a href="/wiki/Categor%C3%ADa:Novelas_en_ingl%C3%A9s" title="Categoría:Novelas en inglés">Novelas en inglés</a></li><li><a href="/wiki/Categor%C3%ADa:Top_100_de_libros_de_ciencia_ficci%C3%B3n_y_fantas%C3%ADa_de_la_National_Public_Radio" title="Categoría:Top 100 de libros de ciencia ficción y fantasía de la National Public Radio">Top 100 de libros de ciencia ficción y fantasía de la National Public Radio</a></li><li><a href="/wiki/Categor%C3%ADa:Frankenstein" title="Categoría:Frankenstein">Frankenstein</a></li><li><a href="/wiki/Categor%C3%ADa:Libros_cr%C3%ADticos_con_la_religi%C3%B3n" title="Categoría:Libros críticos con la religión">Libros críticos con la religión</a></li><li><a href="/wiki/Categor%C3%ADa:Libros_de_Mary_Shelley" title="Categoría:Libros de Mary Shelley">Libros de Mary Shelley</a></li><li><a href="/wiki/Categor%C3%ADa:Novelas_de_Reino_Unido" title="Categoría:Novelas de Reino Unido">Novelas de Reino Unido</a></li><li><a href="/wiki/Categor%C3%ADa:Novelas_brit%C3%A1nicas_adaptadas_al_cine" title="Categoría:Novelas británicas adaptadas al cine">Novelas británicas adaptadas al cine</a></li><li><a href="/wiki/Categor%C3%ADa:Novelas_adaptadas_a_la_televisi%C3%B3n" title="Categoría:Novelas adaptadas a la televisión">Novelas adaptadas a la televisión</a></li><li><a href="/wiki/Categor%C3%ADa:Novelas_adaptadas_al_teatro" title="Categoría:Novelas adaptadas al teatro">Novelas adaptadas al teatro</a></li><li><a href="/wiki/Categor%C3%ADa:Mitolog%C3%ADa_griega_en_la_literatura_moderna" title="Categoría:Mitología griega en la literatura moderna">Mitología griega en la literatura moderna</a></li><li><a href="/wiki/Categor%C3%ADa:Novelas_ambientadas_en_Suiza" title="Categoría:Novelas ambientadas en Suiza">Novelas ambientadas en Suiza</a></li><li><a href="/wiki/Categor%C3%ADa:Novelas_ambientadas_en_Alemania" title="Categoría:Novelas ambientadas en Alemania">Novelas ambientadas en Alemania</a></li><li><a href="/wiki/Categor%C3%ADa:Novelas_ambientadas_en_Escocia" title="Categoría:Novelas ambientadas en Escocia">Novelas ambientadas en Escocia</a></li><li><a href="/wiki/Categor%C3%ADa:El_%C3%81rtico_en_la_ficci%C3%B3n" title="Categoría:El Ártico en la ficción">El Ártico en la ficción</a></li><li><a href="/wiki/Categor%C3%ADa:Novelas_debut" title="Categoría:Novelas debut">Novelas debut</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Categorías ocultas: <ul><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Art%C3%ADculos_destacados_en_la_Wikipedia_en_franc%C3%A9s" title="Categoría:Wikipedia:Artículos destacados en la Wikipedia en francés">Wikipedia:Artículos destacados en la Wikipedia en francés</a></li><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Art%C3%ADculos_con_identificadores_VIAF" title="Categoría:Wikipedia:Artículos con identificadores VIAF">Wikipedia:Artículos con identificadores VIAF</a></li><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Art%C3%ADculos_con_identificadores_BNE" title="Categoría:Wikipedia:Artículos con identificadores BNE">Wikipedia:Artículos con identificadores BNE</a></li><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Art%C3%ADculos_con_identificadores_BNF" title="Categoría:Wikipedia:Artículos con identificadores BNF">Wikipedia:Artículos con identificadores BNF</a></li><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Art%C3%ADculos_con_identificadores_GND" title="Categoría:Wikipedia:Artículos con identificadores GND">Wikipedia:Artículos con identificadores GND</a></li><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Art%C3%ADculos_con_identificadores_LCCN" title="Categoría:Wikipedia:Artículos con identificadores LCCN">Wikipedia:Artículos con identificadores LCCN</a></li><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Art%C3%ADculos_con_identificadores_NLA" title="Categoría:Wikipedia:Artículos con identificadores NLA">Wikipedia:Artículos con identificadores NLA</a></li><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Art%C3%ADculos_con_identificadores_Open_Library" title="Categoría:Wikipedia:Artículos con identificadores Open Library">Wikipedia:Artículos con identificadores Open Library</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Esta página se editó por última vez el 20 nov 2023 a las 02:04.</li>
+	<li id="footer-info-copyright">El texto está disponible bajo la <a rel="license" href="https://es.wikipedia.org/wiki/Wikipedia:Texto_de_la_Licencia_Creative_Commons_Atribuci%C3%B3n-CompartirIgual_4.0_Internacional">Licencia Creative Commons Atribución-CompartirIgual 4.0</a><a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" style="display:none;"></a>; pueden aplicarse cláusulas adicionales. Al usar este sitio aceptas nuestros <a href="https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/es">términos de uso</a> y nuestra <a href="https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/es">política de privacidad</a>.<br/>Wikipedia&reg; es una marca registrada de la <a href="https://wikimediafoundation.org/es/">Fundación Wikimedia</a>, una organización sin ánimo de lucro.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/es">Política de privacidad</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:Acerca_de">Acerca de Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:Limitaci%C3%B3n_general_de_responsabilidad">Limitación de responsabilidad</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Código de conducta</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Desarrolladores</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/es.wikipedia.org">Estadísticas</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement/es">Declaración de cookies</a></li>
+	<li id="footer-places-mobileview"><a href="//es.m.wikipedia.org/w/index.php?title=Frankenstein_o_el_moderno_Prometeo&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versión para móviles</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li>
+		
+		<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Activar o desactivar el límite de anchura del contenido</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.codfw.main-5ff746d94-c8wsh","wgBackendResponseTime":138,"wgPageParseReport":{"limitreport":{"cputime":"0.361","walltime":"0.553","ppvisitednodes":{"value":1027,"limit":1000000},"postexpandincludesize":{"value":32476,"limit":2097152},"templateargumentsize":{"value":1390,"limit":2097152},"expansiondepth":{"value":9,"limit":100},"expensivefunctioncount":{"value":19,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":9503,"limit":5000000},"entityaccesscount":{"value":13,"limit":400},"timingprofile":["100.00%  475.802      1 -total"," 48.27%  229.678      1 Plantilla:Control_de_autoridades"," 31.90%  151.772      1 Plantilla:Ficha_de_libro","  8.63%   41.054      1 Plantilla:Listaref","  5.30%   25.235      2 Plantilla:Cita_noticia","  3.21%   15.284      1 Plantilla:Otros_usos","  2.82%   13.406      1 Plantilla:Texto_de_la_coletilla_del_título","  1.97%    9.376      4 Plantilla:Cita_web","  1.72%    8.192      1 Plantilla:Cita","  1.51%    7.182      1 Plantilla:Commonscat"]},"scribunto":{"limitreport-timeusage":{"value":"0.250","limit":"10.000"},"limitreport-memusage":{"value":7408232,"limit":52428800},"limitreport-logs":"\"[[Reino Unido de Gran Bretaña e Irlanda|Reino Unido]]\"\n"},"cachereport":{"origin":"mw-api-ext.codfw.main-6f6b58c799-697c9","timestamp":"20231120020406","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Frankenstein o el moderno Prometeo","url":"https:\/\/es.wikipedia.org\/wiki\/Frankenstein_o_el_moderno_Prometeo","sameAs":"http:\/\/www.wikidata.org\/entity\/Q150827","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q150827","author":{"@type":"Organization","name":"Colaboradores de los proyectos Wikimedia"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-10-05T01:02:07Z","dateModified":"2023-11-20T02:04:05Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/bc\/Frankenstein.1831.inside-cover.jpg","headline":"novela de Mary Shelley (1818)"}</script>
+</body>
+</html>

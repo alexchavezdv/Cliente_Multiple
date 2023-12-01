@@ -5,10 +5,12 @@
  */
 package cliente_multiple;
 
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.net.Socket;
+
 
 /**
  *
@@ -17,22 +19,21 @@ import java.net.Socket;
 public class ClientThread extends Thread {
     private Socket socket;
     private BufferedReader input;
-    public ClientThread(Socket socket) throws IOException {
+    private String args[];
+    public ClientThread(Socket socket,String args[]) throws IOException {
         this.socket = socket;
         this.input = new BufferedReader ( 
                 new InputStreamReader(socket.getInputStream()));
+        this.args=args;
     }
     
     @Override
     public void run() {
         try {
+             
             while(true) {
                 String response = input.readLine();
                 System.out.println(response);
-                if (response.contains("(privado):URL")) {
-                    String splitted[]=response.split("URL");
-                    System.out.println(splitted[1]);
-                }
             }
         } catch (IOException e) {
             System.out.println("ClientThread error:"+e.getMessage());

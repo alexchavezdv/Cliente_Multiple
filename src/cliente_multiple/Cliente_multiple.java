@@ -25,23 +25,31 @@ import java.util.Scanner;
 
 /**
  *
- * @author alexander chavez
+ * @author ALEXANDER EDUARDO CHAVEZ 
+ * GARCIA DAVID TADEO ROBLES LARA
  */
 public class Cliente_multiple {
 
     /**
      * @param args the command line arguments
      */
-    
     /*
-        Instrucciones
-        System.out.println("[1]. Cargar Y Enviar Urls");
-        System.out.println("[2]. Descargar Libros");
-        System.out.println("[3]. Procesar Libros y Enviar Datos al servidor");
-        System.out.println("[0]. Salir");
-    */
+      Instrucciones para ejecutar el codigo  
+    
+    1. En la primer maquina crear un folder que se llame  books y tener el archivo con las urls 
+    2. En la segunda maquina crear un folder que se llame books y tener el archivo de las stop words
+    3. En la primer maquina corremos la clase servidor_multiple
+    4. En la segunda maquina corremos Cliente_multiple2 y Cliente_multiple3 con los argumentos books txt english_sw.txt 
+       y agregamos la ip del servidor al que se conectara
+    5. Despues en la primer maquina corremos Cliente_multiple que sera el cliente que hara las peticiones
+    Una vez que corramos todas las clases nos mostrara los resultados en la clase Cliente_multiple con el tiempo
+    total de ejecucion
+    
+     */
     public static String fileUrl = "titulos.txt";
-    public static String mensaje="";
+    public static String mensaje = "";
+    public static long tiempo = 0;
+    public static int contador=0;
     public static void main(String[] args) {
         try (Socket socket = new Socket("localhost", 5000)) {
             BufferedReader input = new BufferedReader(new InputStreamReader(socket.getInputStream()));
@@ -50,61 +58,62 @@ public class Cliente_multiple {
             String userInput;
             String response;
             // String clientName = "anonymous";
-            ClientThread clientThread = new ClientThread(socket);
-            clientThread.start();
-            int opcion = 0;
-           
-                ArrayList<BaseLibros> base = cargarULS(fileUrl);
-                int tamaño=base.size();
-                int mitad=base.size()/2;
-                String cliente1="URL";
-                String cliente2="URL";
-                for (int i = 0; i < tamaño; i++) {
-                    String titulo=base.get(i).titulo.replaceAll(" ","_");
-                    String url=base.get(i).url;
-                    if (i<mitad) {
-                      cliente1=cliente1+titulo+"~"+url+" ";
-                      
-                    }
-                    if(i>=mitad){cliente2=cliente2+titulo+"~"+url+" ";
-                   
-                    }
-                }
-              //  cliente1.replaceAll("\\s"," ");
-                System.out.println(cliente1);
-                System.out.println(cliente2);
-                
-               //enviar Urls al cliente1
-               output.println("privado"+" "+"Cliente0"+" "+cliente1);
-                output.println("privado"+" "+"Cliente1"+" "+cliente2);
-            do {
-                
-               //Descargar la mitad de los libros
-             /* ArrayList<BaseLibros> libros=recibirLibros(cliente1);
-                descargarLibros(libros);
-               //Procesar palabras de los libros
-                System.out.println(args[0]+" "+args[1]+" "+args[2]+" "+args[3]);
-                procesaTextos(args);
-                output.println(mensaje);*/
-               //Enviar los datos a servidor
-                
-                String message = (" mensaje>:");
-                System.out.println(message);
-                userInput = scanner.nextLine();
-                // output.println(message + " " + userInput);
-                output.println(userInput);
-                if (userInput.equals("salir")) {
-                    break;
-                }
+           // ClientThread clientThread = new ClientThread(socket, args);
+           // clientThread.start();
 
-            } while (!userInput.equals("salir"));
+            //Cargamos Las urls del archivo y se las enviamos al cliente
+            ArrayList<BaseLibros> base = cargarULS(fileUrl);
+            int tamaño = base.size();
+            int mitad = base.size() / 2;
+            String cliente1 = "URL";
+            String cliente2 = "URL";
+            for (int i = 0; i < tamaño; i++) {
+                String titulo = base.get(i).titulo.replaceAll(" ", "_");
+                String url = base.get(i).url;
+                if (i < mitad) {
+                    cliente1 = cliente1 + titulo + "~" + url + " ";
+
+                }
+                if (i >= mitad) {
+                    cliente2 = cliente2 + titulo + "~" + url + " ";
+
+                }
+            }
+
+            System.out.println(cliente1);
+            System.out.println(cliente2);
+
+            //enviar Urls al cliente1
+            output.println("privado" + " " + "Cliente1" + " " + cliente1);
+            output.println("privado" + " " + "Cliente2" + " " + cliente2);
+            do {
+                response = input.readLine();
+                System.out.println(response);
+                procesarRespuesta(response);
+                
+               
+            } while (true);
+
         } catch (Exception e) {
             System.out.println("Main client. Error:" + e.getMessage());
         }
     }
+    public  static void procesarRespuesta(String response) {    
+    if (response != null && response.contains("tiempo")) {
+        String[] splitted = response.split("tiempo");
+        long numero = Long.parseLong(splitted[1].trim());
+        tiempo += numero;
+        contador++;
+        if (contador == 2) {
+            System.out.println("Tiempo total de procesamiento: " + tiempo + " milisegundos");
+        }
+    }
+}
+
+
     //argumentos necesarios books  txt  english_sw.txt
     public static void procesaTextos(String args[]) {
-       
+
         Instant inicio = Instant.now();
         HashMap<String, Integer> hasmap = cargaStopPalabras(args[2]);
 
@@ -118,7 +127,7 @@ public class Cliente_multiple {
         long tiempo = Duration.between(inicio, fin).toMillis();
         System.out.println("Tiempo Serial :" + tiempo);
         //return tiempo;
-        
+
     }
 
     //Metodos para procesar textos
@@ -155,20 +164,20 @@ public class Cliente_multiple {
     }
 
     public static void procesaListaTextosSerial(List<Texto> lista, HashMap<String, Integer> stopwords) {
-       
+
         for (Texto texto : lista) {
             texto.cuentaPalabras();
             texto.display(40);
-            mensaje=mensaje+texto.totalPalabras()+"\n";
+            mensaje = mensaje + texto.totalPalabras() + "\n";
             texto.cuentaPalabrasRepetidas();
             //texto.displayPalabrasRepetidas(texto.diccionario,10);
             texto.cuentaPalabrasStop(stopwords);
             //texto.displayPalabrasRepetidas(texto.diccionario_stopwords, 10);
-            texto.displayPalabrasRepetidas(texto.diccionario_no_stopwords, 10);
-           mensaje=mensaje+texto.displayTop(texto.diccionario_no_stopwords, 10);
+            //texto.displayPalabrasRepetidas(texto.diccionario_no_stopwords, 10);
+            mensaje = mensaje + texto.displayTop(texto.diccionario_no_stopwords, 10);
 
         }
-       
+
     }
 
     public static List<File> obtenListaArchivos(String ruta, String ext) {
@@ -213,7 +222,7 @@ public class Cliente_multiple {
             for (String Url : Urls) {
                 System.out.println(Url);
             }
-           String texto[];
+            String texto[];
             for (String url : Urls) {
                 texto = url.split("~");
                 BaseLibros libro = new BaseLibros(texto[0], texto[1]);
@@ -283,11 +292,11 @@ public class Cliente_multiple {
     }
 
     public static void DownloadWebPage(String webpage, String archivo_salida) {
-       String ruta = "books/";
+        String ruta = "books/";
         try {
             URL url = new URL(webpage);
             BufferedReader reader = new BufferedReader(new InputStreamReader(url.openStream()));
-            BufferedWriter writer = new BufferedWriter(new FileWriter(ruta+archivo_salida));
+            BufferedWriter writer = new BufferedWriter(new FileWriter(ruta + archivo_salida));
             String line;
             while ((line = reader.readLine()) != null) {
                 writer.write(line);

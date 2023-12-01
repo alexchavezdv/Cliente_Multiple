@@ -211,7 +211,7 @@ public class Texto {
             }
         }
         System.out.println(">>>>>>>"+this.filename);
-        mensaje=mensaje+">>>>>>>"+this.filename+"\n";
+        mensaje=mensaje+"privado Cliente3 "+">>>>>>>"+this.filename+"\n";
         int cuenta_pal =0;
         ArrayList<String> palabras = 
                 new ArrayList<>(sort_dicc.keySet());
@@ -225,7 +225,7 @@ public class Texto {
                     String palabra=palabras.get(i)+ ":" +
                         conteo.get(i);
                     System.out.println("  "+palabra);
-                    mensaje=mensaje+palabra+"\n";
+                    mensaje=mensaje+"privado Cliente3 "+palabra+"\n";
                     cuenta_pal++;
                    
                    // this.Top10.add(palabra);
